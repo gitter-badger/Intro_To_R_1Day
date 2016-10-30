@@ -10,9 +10,7 @@ install:
   ps: Bootstrap
 
 # Adapt as necessary starting from here
-before_build:
-  - cd introToR
- 
+
 environment:
   global:
    WARNINGS_ARE_ERRORS: 0
