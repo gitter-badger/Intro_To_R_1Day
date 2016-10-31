@@ -7,13 +7,13 @@ init:
         Invoke-WebRequest http://raw.github.com/krlmlr/r-appveyor/master/scripts/appveyor-tool.ps1 -OutFile "..\appveyor-tool.ps1"
         Import-Module '..\appveyor-tool.ps1'
         
-before_install:
-  cmd: cd introToR
-  
 install:
   ps: Bootstrap
 
 # Adapt as necessary starting from here
+
+before_install:
+  - cd introToR
 
 environment:
   global:
