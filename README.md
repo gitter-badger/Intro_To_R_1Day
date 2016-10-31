@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/mrccsc/Intro_To_R_1Day.svg?branch=master)](https://travis-ci.org/mrccsc/Intro_To_R_1Day)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/9pwvbfmilu8nq3bq?svg=true)](https://ci.appveyor.com/project/mrccsc/intro-to-r-1day-tq3fi)
+[![Build status](https://ci.appveyor.com/api/projects/status/9pwvbfmilu8nq3bq?svg=true)](https://ci.appveyor.com/project/ThomasCarroll/intro-to-r-1day-tq3fi)
 
 
 ##The Course
