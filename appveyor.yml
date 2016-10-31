@@ -12,9 +12,6 @@ install:
 
 # Adapt as necessary starting from here
 
-before_install:
-  - cd introToR
-
 environment:
   global:
    WARNINGS_ARE_ERRORS: 0
