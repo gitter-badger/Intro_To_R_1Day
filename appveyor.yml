@@ -8,6 +8,7 @@ init:
         Import-Module '..\appveyor-tool.ps1'
 before_install:
   cd introToR
+  
 install:
   ps: Bootstrap
 
